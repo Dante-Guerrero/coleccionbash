@@ -1,0 +1,29 @@
+#!/bin/bash
+distritos=(
+	amazonas
+	ancash
+	apurimac
+	arequipa
+	ayacucho
+	cajamarca
+	cusco
+	huancavelica
+	huanuco
+	ica
+	junin
+	lalibertad
+	lambayeque
+	lima
+	loreto
+	madrededios
+	moquegua
+	pasco
+	piura
+	puno
+	sanmartin
+	tacna
+	tumbes
+	ucayali
+	)
+
+mkdir ${distritos[@]}
